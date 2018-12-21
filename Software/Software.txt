@@ -1,0 +1,17 @@
+Visual Studio 2017 Enterpise:
+https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&rel=15
+
+Visual Studio Code:
+https://aka.ms/win32-x64-user-stable
+
+ReSharper:
+https://download.jetbrains.com/resharper/ReSharperUltimate.2018.2.3/JetBrains.ReSharperUltimate.2018.2.3.exe
+
+Python 3:
+https://www.python.org/ftp/python/3.7.1/python-3.7.1.exe
+
+NodeJS 11.4.0:
+https://nodejs.org/dist/v11.4.0/node-v11.4.0-x64.msi
+
+SQL Server Management Studio (SSMS):
+https://go.microsoft.com/fwlink/?linkid=2043154
